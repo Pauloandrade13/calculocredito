@@ -1,0 +1,46 @@
+body {
+
+    background-image: url(https://empresasecooperativas.com.br/wp-content/uploads/2017/10/iStock-1145631842-1024x534.jpg);
+    background-size: cover;
+    
+}
+input#inp1 {
+ 
+ margin-top: 30px;
+ color: rgb(3, 1, 15);
+ border-width: medium;
+ border-style: solid;
+ border-color: rgb(255, 255, 255);
+
+
+}
+
+div#div2 {
+
+width: 600px;
+height: 300px;
+background: rgb(10, 101, 143);
+color: rgb(255, 255, 255);
+padding: 20px;
+border: 5px solid #CCC;
+
+}
+
+div#div1 {
+ margin-top: 20px;
+ font-size: 18pt;
+}
+
+input#inp2 {
+ width: 60px;
+}
+
+footer#foo
+{
+ margin-top: 300px;
+ 
+}
+
+p {
+ color: rgb(207, 216, 223);
+}
